@@ -6,8 +6,7 @@
 
 
 
-[![Skills](https://skills.syvixor.com/api/icons?i=ts,node,expressjs,vue,nuxt,mongodb,prisma)](https://github.com/syvixor/skills-icons)
-
+[![Skills](https://skills.syvixor.com/api/icons?i=java,js,c)](https://github.com/syvixor/skills-icons)
 <!-- <img align="right" alt="Coding" width="300" src="https://github.com/AndroidWithRossyn/AndroidWithRossyn/assets/118904953/f01daec3-1d1c-4f83-89e5-7454d9a573ad">
 
 - 👨‍💻 Building Android apps that help people every day.
