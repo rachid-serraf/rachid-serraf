@@ -23,10 +23,10 @@
 
 **APIs & Real-time**  
 `RESTful APIs` `GraphQL` `WebSockets` <br>
-[![APIs & Tools](https://skills.syvixor.com/api/icons?i=graphql,websocket,rest,postman&theme=dark)](https://github.com/syvixor/skills-icons)
+[![APIs & Tools](https://skills.syvixor.com/api/icons?i=graphql,websocket,rest&theme=dark)](https://github.com/syvixor/skills-icons)
 
 
 **DevOps & Tools**  
 `Docker` `Git` `GitHub` `Gitea` `Postman` `Jira` `Testing (Unit & Integration)` <br>
-[![DevOps & Others](https://skills.syvixor.com/api/icons?i=docker,git,github,gitea,jira&theme=dark)](https://github.com/syvixor/skills-icons)
+[![DevOps & Others](https://skills.syvixor.com/api/icons?i=docker,git,github,gitea,jira,postman&theme=dark)](https://github.com/syvixor/skills-icons)
 
