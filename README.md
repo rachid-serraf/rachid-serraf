@@ -7,7 +7,7 @@ Full-stack developer passionate about crafting modern web applications from fron
 ### Tech Stack
 
 **Frontend**  
-`JavaScript (ES6+)` `React.js` `Angular` `Next.js` `HTML5` `CSS3` `Angular Material` <br>
+`JavaScript (ES6+)` `React.js` `Angular` `Next.js` `HTML5` `CSS3` `Angular Material` <br><br>
 [![Frontend](https://skills.syvixor.com/api/icons?i=js,react,angular,nextjs,html,css,angularmaterial&theme=dark)](https://github.com/syvixor/skills-icons)
 
 
