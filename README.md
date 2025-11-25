@@ -5,13 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36E6F7&repeat=false&width=435&lines=Feature+loading.+.+.)](https://git.io/typing-svg)
 
 
-<div  align="center" style="display:flex">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohcinedev&count_private=true&theme=algolia"  alt="@MOHCINEDEV"> 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohcinedev&count_private=true&theme=algolia"  alt="@MOHCINEDEV"> 
-</div>
-<div align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=mohcinedev&theme=algolia&hide_border=true&border_radius=16&card_width=800&fire=21c063"/ alt="@MOHCINEDEV"/>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachid-serraf&langs_count=16)
 
 <!-- <img align="right" alt="Coding" width="300" src="https://github.com/AndroidWithRossyn/AndroidWithRossyn/assets/118904953/f01daec3-1d1c-4f83-89e5-7454d9a573ad">
 
