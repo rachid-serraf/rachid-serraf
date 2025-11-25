@@ -22,7 +22,7 @@ Full-stack developer passionate about crafting modern web applications from fron
 
 
 **APIs & Real-time**  
-`RESTful` `WebSockets` `GraphQL`  <br>
+`GraphQL` `WebSockets` `RESTful`  <br>
 [![APIs & Tools](https://skills.syvixor.com/api/icons?i=graphql,websocket,rest&theme=dark)](https://github.com/syvixor/skills-icons)
 
 
