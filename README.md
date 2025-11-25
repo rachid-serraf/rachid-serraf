@@ -6,18 +6,11 @@
 
 
 
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachid-serraf&langs_count=16)
-</div>
-<div  align="center" style="display:flex">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rachid-serraf&count_private=true&theme=algolia"  alt="@rachidserraf"> 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachid-serraf&count_private=true&theme=algolia"  alt="@rachidserraf"> 
-</div>
-<div align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=rachid-serraf&theme=algolia&hide_border=true&border_radius=16&card_width=800&fire=21c063"/ alt="@rachidserraf"/>
-</div>
- </div> 
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/python" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/html" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/js" width="64px" />
+<div>
 
 <!-- <img align="right" alt="Coding" width="300" src="https://github.com/AndroidWithRossyn/AndroidWithRossyn/assets/118904953/f01daec3-1d1c-4f83-89e5-7454d9a573ad">
 
