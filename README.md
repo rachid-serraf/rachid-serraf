@@ -30,3 +30,14 @@ Full-stack developer passionate about crafting modern web applications from fron
 `Docker` `Git` `GitHub` `Gitea` `Postman` `Jira` `Testing (Unit & Integration)` <br>
 [![DevOps & Others](https://skills.syvixor.com/api/icons?i=docker,git,github,gitea,jira,postman&theme=dark)](https://github.com/syvixor/skills-icons)
 
+### 🛠️ Tech Stack
+
+| Category          | Technologies                                                                                           |
+|-------------------|--------------------------------------------------------------------------------------------------------|
+| **Frontend**      | ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Angular](https://skillicons.dev/icons?i=angular) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Angular Material](https://skillicons.dev/icons?i=angularmaterial) |
+| **Backend**       | ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![Go](https://skillicons.dev/icons?i=go) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Rust](https://skillicons.dev/icons?i=rust) ![Redis](https://skillicons.dev/icons?i=redis) |
+| **Databases**     | ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![SQLite](https://skillicons.dev/icons?i=sqlite) |
+| **APIs & Real-time** | ![GraphQL](https://skillicons.dev/icons?i=graphql) ![WebSocket](https://skillicons.dev/icons?i=websocket) ![REST](https://skillicons.dev/icons?i=express) |
+| **DevOps & Tools**| ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Postman](https://skillicons.dev/icons?i=postman) ![Jira](https://skillicons.dev/icons?i=jira) |
+
+*Powered by [skillicons.dev](https://skillicons.dev)*
