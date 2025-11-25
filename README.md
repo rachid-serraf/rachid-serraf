@@ -6,11 +6,7 @@
 
 
 
-<div style="display: flex; gap: 2px; align-items: center;">
-<img src="https://iconic-api.onrender.com/light/java" width="64px" />
-<img src="https://iconic-api.onrender.com/light/go" width="64px" />
-<img src="https://iconic-api.onrender.com/light/rust" width="64px" />
-<div>
+[![Skills](https://skills.syvixor.com/api/icons?i=ts,node,expressjs,vue,nuxt,mongodb,prisma)](https://github.com/syvixor/skills-icons)
 
 <!-- <img align="right" alt="Coding" width="300" src="https://github.com/AndroidWithRossyn/AndroidWithRossyn/assets/118904953/f01daec3-1d1c-4f83-89e5-7454d9a573ad">
 
