@@ -1,6 +1,7 @@
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey There, I'm Rachid Serraf</h2>
 ## About Me
-Full Stack Developer with experience in building web applications, from front-end to back-end. Interested in Computer Science and problem solving, real-world problems using modern technologies. practice programming languages JavaScript (React, Node.js, Next.js), as well as Java and Go. Comfortable working in a team, with a constant desire to learn and improve.
+
+  Full Stack Developer with experience in building web applications, from front-end to back-end. Interested in Computer Science and problem solving, real-world problems using modern technologies. practice programming languages JavaScript (React, Node.js, Next.js), as well as Java and Go. Comfortable working in a team, with a constant desire to learn and improve.
 
 ##  Tech Stack
 
