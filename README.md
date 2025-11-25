@@ -27,5 +27,5 @@ Full-stack developer passionate about crafting modern web applications from fron
 
 
 **DevOps & Tools**  
-`Docker` `Git` `GitHub` `Gitea` `Postman` `Jira` `Testing (Unit & Integration)` <br>
+`Docker` `Git` `GitHub` `Gitea` `Jira` `Postman` <br>
 [![DevOps & Others](https://skills.syvixor.com/api/icons?i=docker,git,github,gitea,jira,postman&theme=dark)](https://github.com/syvixor/skills-icons)
