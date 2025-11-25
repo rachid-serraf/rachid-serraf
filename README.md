@@ -2,7 +2,7 @@
 
 ##  About Me
 
-  Full Stack Developer with experience in building web applications, from front-end to back-end. Interested in Computer Science and problem solving, real-world problems using modern technologies. practice programming languages JavaScript (React, Node.js, Next.js), as well as Java and Go. Comfortable working in a team, with a constant desire to learn and improve.
+Full-stack developer passionate about crafting modern web applications from frontend to backend. Deeply interested in computer science, problem-solving, and building real-world solutions. Thrives in collaborative environments with a strong drive for continuous learning and growth.
 
 ### Tech Stack
 
