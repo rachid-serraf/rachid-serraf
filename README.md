@@ -29,38 +29,3 @@ Full-stack developer passionate about crafting modern web applications from fron
 **DevOps & Tools**  
 `Docker` `Git` `GitHub` `Gitea` `Postman` `Jira` `Testing (Unit & Integration)` <br>
 [![DevOps & Others](https://skills.syvixor.com/api/icons?i=docker,git,github,gitea,jira,postman&theme=dark)](https://github.com/syvixor/skills-icons)
-
-### 🛠️ Tech Stack
-
-#### Frontend
-![JavaScript](https://skillicons.dev/icons?i=js)&nbsp; JavaScript (ES6+) • 
-![React](https://skillicons.dev/icons?i=react)&nbsp; React • 
-![Angular](https://skillicons.dev/icons?i=angular)&nbsp; Angular • 
-![Next.js](https://skillicons.dev/icons?i=nextjs)&nbsp; Next.js • 
-![HTML5](https://skillicons.dev/icons?i=html)&nbsp; HTML5 • 
-![CSS3](https://skillicons.dev/icons?i=css)&nbsp; CSS3 • 
-![Angular Material](https://skillicons.dev/icons?i=angularmaterial)&nbsp; Angular Material
-
-#### Backend
-![Java](https://skillicons.dev/icons?i=java)&nbsp; Java • 
-![Spring](https://skillicons.dev/icons?i=spring)&nbsp; Spring Boot • 
-![Go](https://skillicons.dev/icons?i=go)&nbsp; Go • 
-![Node.js](https://skillicons.dev/icons?i=nodejs)&nbsp; Node.js • 
-![Rust](https://skillicons.dev/icons?i=rust)&nbsp; Rust • 
-![Redis](https://skillicons.dev/icons?i=redis)&nbsp; Redis
-
-#### Databases
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)&nbsp; PostgreSQL • 
-![SQLite](https://skillicons.dev/icons?i=sqlite)&nbsp; SQLite
-
-#### APIs & Real-time
-![REST](https://skillicons.dev/icons?i=express)&nbsp; RESTful APIs • 
-![GraphQL](https://skillicons.dev/icons?i=graphql)&nbsp; GraphQL • 
-![WebSocket](https://skillicons.dev/icons?i=websocket)&nbsp; WebSockets
-
-#### DevOps & Tools
-![Docker](https://skillicons.dev/icons?i=docker)&nbsp; Docker • 
-![Git](https://skillicons.dev/icons?i=git)&nbsp; Git • 
-![GitHub](https://skillicons.dev/icons?i=github)&nbsp; GitHub • 
-![Postman](https://skillicons.dev/icons?i=postman)&nbsp; Postman • 
-![Jira](https://skillicons.dev/icons?i=jira)&nbsp; Jira
