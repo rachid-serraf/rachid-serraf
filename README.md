@@ -7,9 +7,9 @@
 
 
 <div style="display: flex; gap: 2px; align-items: center;">
-<img src="https://iconic-api.onrender.com/dark/python" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/html" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/js" width="64px" />
+<img src="https://iconic-api.onrender.com/light/java" width="64px" />
+<img src="https://iconic-api.onrender.com/light/go" width="64px" />
+<img src="https://iconic-api.onrender.com/light/rust" width="64px" />
 <div>
 
 <!-- <img align="right" alt="Coding" width="300" src="https://github.com/AndroidWithRossyn/AndroidWithRossyn/assets/118904953/f01daec3-1d1c-4f83-89e5-7454d9a573ad">
