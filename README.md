@@ -16,9 +16,13 @@
 
 **Frontend**  
 `JavaScript (ES6+)` `React.js` `Angular` `Next.js` `HTML5` `CSS3` `Angular Material`
+[![Frontend](https://skills.syvixor.com/api/icons?i=js,react,angular,nextjs,html,css,angularmaterial&theme=dark)](https://github.com/syvixor/skills-icons)
+
 
 **Backend**  
 `Java` `Spring Boot` `Go (Golang)` `Node.js` `Rust` `Redis`
+[![Backend](https://skills.syvixor.com/api/icons?i=java,spring,go,nodejs,rust,redis&theme=dark)](https://github.com/syvixor/skills-icons)
+
 
 **Databases**  
 `PostgreSQL` `SQLite`
